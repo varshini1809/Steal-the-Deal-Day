@@ -12,7 +12,7 @@ Business Analysis for Supermarket store
 8. [Contact Information](#contact-information)
 
 ## Project Overview 
-This project involves the analysis of a sales dataset from a supermarket in 3 cities in Myanmar, covering the period from January to March 2019. The purpose of this analysis is to derive insights for an upcoming promotion event called "Super Saver Day". The dataset has been imported into an SQL database, and various SQL queries have been used to perform the analysis.
+This project involves the analysis of a sales dataset from a supermarket in 3 cities in Myanmar, covering the period from January to March 2019. The purpose of this analysis is to derive insights for an upcoming promotion event called "Stel the Deal Day". The dataset has been imported into an SQL database, and various SQL queries have been used to perform the analysis.
 
 ## Data Description 
 The dataset includes:
@@ -28,7 +28,7 @@ We used MySQL to create database, drawing Entity-Relationship- Diagram and lever
 - Most profitable product line: Food and beverage.
 - Importance of having a database to keep tracking customer behavior.
 
-Super Saver Day Promotion
+Deal Day Promotion
 - Promote the most profitable product line to leverage sales and profit.
 - Offer promotions exclusively to members to increase the number of memberships.
 
